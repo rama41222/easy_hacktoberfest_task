@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">යෙදුමේ නම</string>
+    <string name="notify_record">පටිගත</string>
+    <string name="notify_stop">නවත්වන්න</string>
+    <string name="start_snap_screenshot">තිර දර්ශනය වාර්තා කරන්න</string>
+    <string name="snap_screenshot_running">සැණසුම් තිර දර්ශන ධාවනය</string>
+    <string name="camera_icon">කැමරා නිරූපකය</string>
+    <string name="start_snap_saver">ස්නැප් සුරකින්න ආරම්භ කරන්නr</string>
+    <string name="stop_snap_screenshot">තිර දර්ශන නැවැත්වීමට මෙහි ක්ලික් කරන්න</string>
+    <string name="remove_ads">Pro අනුවාදය ලබා ගන්න</string>
+    <string name="rate_app">මෙම යෙදුම ඡන්දය ප්රකාශ කරන්න</string>
+    <string name="share_app">අයදුම්පත බෙදාගන්න</string>
+    <string name="feedback">ප්රතිචාර</string>
+    <string name="open_screenshots">විවෘත රූප රාමු</string>
+    <string name="become_a_pro_user">Pro පරිශීලකයෙක් වන්න</string>
+    <string name="already_pro_version">ඇඩ් ස්පීඩ් අනුවාදය මිලදී ගැනීම සඳහා ස්තූතියි.</string>
+    <string name="play_billing_licence_key">බිල්පත් බලපත්ර යතුර</string>
+    <string name="cross_icon">හරස් අයිකනය</string>
+    <string name="get_pro_version">Pro අනුවාදය ලබා ගන්න</string>
+    <string name="desc">මෙම යෙදුම පරිශීලකයින් හඳුනා ගැනීමකින් තොරව Snapchat තිරය තිරය වෙත ලබා දෙයි. Root අවශ්ය නොවේ</string>
+
+</resources>
